@@ -1,6 +1,5 @@
 # Add a connection to DB and then the DB should have a table with names and that is going to store those names
 
-
 inputName = input("enter a name: ")
 names = []
 

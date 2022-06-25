@@ -1,8 +1,8 @@
 # comedians = {
 comedian20 = ['macdonald','seinfeld']
 comedian10 = ['macdonald','rivers', 'seinfeld']
-comedian00 = ['macdonald','rivers', 'seinfeld', 'carlin']
-comedian90 = ['macdonald', 'kinnison', 'hicks', 'murphey', 'pryor', 'rivers', 'seinfeld', 'carlin']
+comedian00 = ['macdonald','rivers', 'seinfeld', 'carlin', 'o\'neil']
+comedian90 = ['macdonald', 'kinnison', 'hicks', 'murphey', 'pryor', 'rivers', 'seinfeld', 'carlin', 'o\'neil']
 comedian80 = ['carlin','pryor', 'rivers', 'seinfeld', 'kinnison', 'hicks', 'murphey', 'macdonald']
 comedian70 = ['carlin', 'red skeleton', 'pryor', 'rivers', 'seinfeld']
 comedian60 = ['carlin', 'bruce', 'red skeleton']
